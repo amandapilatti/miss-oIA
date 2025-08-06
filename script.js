@@ -25,11 +25,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "sim",
-                afirmacao: "Você aceitou uma recompensa dos homens durante sua ajuda nas missões. Recebendo ouro e um amuleto mágico, agradecendo os homens."
+                afirmacao: " Você aceitou uma recompensa dos homens durante sua ajuda nas missões. Recebendo ouro e um amuleto mágico, agradecendo os homens."
             },
             {
                 texto: "não",
-                afirmacao: "Você não aceitou uma recompensa dos homens durante sua ajuda nas missões. Deixando eles decepcionados com sua atitude, você se arrepende quando descobre o que iria ganhar."
+                afirmacao: " Você não aceitou uma recompensa dos homens durante sua ajuda nas missões. Deixando eles decepcionados com sua atitude, você se arrepende quando descobre o que iria ganhar."
             }
 
         ]
@@ -40,11 +40,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Ignorar o livro e sua luz",
-                afirmacao: "Você encontra um livro brilhante durante uma guerra, mas ignora ele. O livro te segue e você desiste de ignorar, pegando o livro e ficando hipnotizada."
+                afirmacao: " Você encontra um livro brilhante durante uma guerra, mas ignora ele. O livro te segue e você desiste de ignorar, pegando o livro e ficando hipnotizada."
             },
             {
                 texto: "Pegar o livro",
-                afirmacao: "Você encontra um livro brilhante durante uma guerra e aproxima-se dele, pegando ele na mão. Esse livro começa a te hipnotizar mais e fazer você viajar para outro mundo."
+                afirmacao: " Você encontra um livro brilhante durante uma guerra e aproxima-se dele, pegando ele na mão. Esse livro começa a te hipnotizar mais e fazer você viajar para outro mundo."
             }
 
         ]
@@ -55,11 +55,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Viver sua vida normalmente sem querer usar seus poderes",
-                afirmacao: "Quando você volta para o presente, você recupera seu poder, decidindo não usá-lo por segurança e vive sua vida tranquilamente no presente, usando seu poder apenas para emergências."
+                afirmacao: " Quando você volta para o presente, você recupera seu poder, decidindo não usá-lo por segurança e vive sua vida tranquilamente no presente, usando seu poder apenas para emergências."
             },
             {
                 texto: "Voltar e ajudar seus novos amigos",
-                afirmacao: "Quando você volta para o presente, você recupera seu poder, decidindo voltar e ajudar seus amigos na guerra, vencendo e voltando para o presente, mas viajando no tempo às vezes."
+                afirmacao: " Quando você volta para o presente, você recupera seu poder, decidindo voltar e ajudar seus amigos na guerra, vencendo e voltando para o presente, mas viajando no tempo às vezes."
             }
 
         ]
@@ -70,11 +70,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Congelar o tempo",
-                afirmacao: "No presente você adquire um novo poder, congelamento do tempo, onde ele te ajuda e melhora seu antigo poder. Facilitando suas viagens e ações do cotidiano."
+                afirmacao: " No presente você adquire um novo poder, congelamento do tempo, onde ele te ajuda e melhora seu antigo poder. Facilitando suas viagens e ações do cotidiano."
             },
             {
                 texto: "Voar",
-                afirmacao: "No presente você adquire um novo poder, voar, onde ele auxilia junto com seu antigo poder. Sendo um ótimo poder para o cotidiano, sem precisar se atrasar e podendo viajar para outros lugares no mundo, durante o presente principalmente."
+                afirmacao: " No presente você adquire um novo poder, voar, onde ele auxilia junto com seu antigo poder. Sendo um ótimo poder para o cotidiano, sem precisar se atrasar e podendo viajar para outros lugares no mundo, durante o presente principalmente."
             }
 
         ]
